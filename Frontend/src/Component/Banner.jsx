@@ -27,7 +27,7 @@ function Banner() {
             <input type="text" className="grow" placeholder="Email" />
             </label>
             </div>
-            <button className="mt-6 btn btn-secondary">Secondary</button>
+            <button className="mt-6 btn btn-secondary">Get Started</button>
         </div>
         <div className='order-1 w-full md:w-1/2'>
             <img src ="https://img.freepik.com/free-vector/international-literacy-day-with-lots-books_23-2148608688.jpg?ga=GA1.1.1992401956.1726309876&semt=ais_hybrid" className="ml-5 w-196 h-176" alt=""/>
